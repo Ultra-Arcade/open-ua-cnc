@@ -17,9 +17,9 @@ From regular Arcade Sticks to Hitboxes, your creativity is the limit. No prior e
 
 All cases are to be made with a laser cut router. Let's begin!
 
-## Building a Basic Model 1 MDF Arcade Stick
+## Pre-Requisites
 
-### Necessary Materials - Hardware
+### Hardware
 
      STM32F103C8T6 or similar (Bluepill)
      USB V8 Cable
@@ -28,9 +28,20 @@ All cases are to be made with a laser cut router. Let's begin!
      Dupont Jumpers
      2.4mm or 4.8mm Faston Terminal Connectors
      AWG 24 Wire or similar
-     Wire Crimper
-     Pliers
 
+### Tools
+
+     Wire Crimper
+     Wire Stripper
+     Pliers
+     Screwdrivers
+     Soldering Iron & Flux
+     
+### Nuts & Bolts
+
+     x12 2mm Nut
+     x8 2mm Screw
+     x8 4mm Screw
 
 ## Credits
 
