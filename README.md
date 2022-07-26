@@ -43,6 +43,10 @@ All cases are to be made with a laser cut router. Let's begin!
      x8 2mm Screw
      x8 4mm Screw
 
+## Where do I begin?
+
+Please refer to the wiki for the full explanation on how to build your own controller!
+
 ## Credits
 
 Case Designs and Arcade Art Preview Software by Gabriel "Piu" Amoedo
