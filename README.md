@@ -17,17 +17,26 @@ From regular Arcade Sticks to Hitboxes, your creativity is the limit.
 
 All cases are to be made with a laser cut router.
 
+## Compatibilty
+
+- Playstation 3
+- Playstation 4 (LEGACY)
+- Nintendo Switch
+- PC / MAC / Linux / Android
+
 ## Pre-Requisites
 
 ### Hardware
 
-     STM32F103C8T6 or similar (Bluepill)
+     STM32F103C8T6 or similar (Bluepill, 64k flash minimum)
      USB V8 Cable
      Breadboard (400 tie points recommended)
      ST-Link V2 or similar flashing hardware
      Dupont Jumpers
      2.4mm or 4.8mm Faston Terminal Connectors
      AWG 24 Wire or similar
+     Arcade Buttons (30mm)
+     Sanwa Arcade Stick
 
 ### Tools
 
@@ -39,13 +48,13 @@ All cases are to be made with a laser cut router.
      
 ### Nuts & Bolts
 
-     x12 2mm Nut
-     x8 2mm Screw
-     x8 4mm Screw
+     x12 M4 Nuts
+     x8 M4 Allen Screws
+     x8 M4 Flathead Screws
 
 ## Where do I begin?
 
-Please refer to the wiki for the full explanation on how to build your own controller!
+[Please refer to the wiki for the full explanation on how to build your own controller!](https://github.com/Ultra-Arcade/open-ua-cnc/wiki/)
 
 ## Credits
 
