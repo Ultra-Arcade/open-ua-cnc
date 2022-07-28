@@ -56,6 +56,13 @@ All cases are to be made with a laser cut router.
 
 [Please refer to the wiki for the full explanation on how to build your own controller!](https://github.com/Ultra-Arcade/open-ua-cnc/wiki/)
 
+## Creations Preview
+
+[ExampleUsage.webm](https://user-images.githubusercontent.com/11778557/180760613-1b731b34-b6ba-47a1-9874-4af2d98b4cfe.webm)
+
+If you want to preview how your creations will look like, you can use the [Arcade Builder](https://github.com/Ultra-Arcade/arcade-builder), a software made in conjuction with the Open UA CNC project to provide better visualization to user creations.
+
+
 ## Credits
 
 Case Designs and Arcade Art Preview Software by Gabriel "Piu" Amoedo
