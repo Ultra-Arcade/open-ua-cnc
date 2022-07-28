@@ -13,9 +13,9 @@
 
 This project's goal is to provide all the necessary data to build your own arcade controller from the ground up.
 
-From regular Arcade Sticks to Hitboxes, your creativity is the limit. No prior experience is needed to build any of the controllers presented in this project.
+From regular Arcade Sticks to Hitboxes, your creativity is the limit.
 
-All cases are to be made with a laser cut router. Let's begin!
+All cases are to be made with a laser cut router.
 
 ## Pre-Requisites
 
