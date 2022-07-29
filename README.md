@@ -38,6 +38,10 @@ All cases are to be made with a laser cut router.
      Arcade Buttons (30mm)
      Sanwa Arcade Stick
 
+### Software
+
+Corel Draw 15 or later (in order to modify the files)
+
 ### Tools
 
      Wire Crimper
