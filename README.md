@@ -17,7 +17,7 @@ From regular Arcade Sticks to Hitboxes, your creativity is the limit.
 
 All cases are to be made with a laser cut router.
 
-## Compatibilty
+## Compatibility
 
 - Playstation 3
 - Playstation 4 (LEGACY)
