@@ -48,9 +48,9 @@ All cases are to be made with a laser cut router.
      
 ### Nuts & Bolts
 
-     x12 M4 Nuts
-     x8 M4 Allen Screws
-     x8 M4 Flathead Screws
+     M4 Nuts
+     M4 Allen Screws
+     M4 Flathead Screws
 
 ## Where do I begin?
 
