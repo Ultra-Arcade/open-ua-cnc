@@ -35,12 +35,11 @@ All cases are to be made with a laser cut router.
      Dupont Jumpers
      2.4mm or 4.8mm Faston Terminal Connectors
      AWG 24 Wire or similar
-     Arcade Buttons (30mm)
-     Sanwa Arcade Stick
+     Arcade Buttons/Stick
 
 ### Software
 
-Corel Draw 15 or later (in order to modify the files)
+     Corel Draw 15 or later (in order to modify the files)
 
 ### Tools
 
