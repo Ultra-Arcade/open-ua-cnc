@@ -28,10 +28,9 @@ All cases are to be made with a laser cut router.
 
 ### Hardware
 
-     STM32F103C8T6 or similar (Bluepill, 64k flash minimum)
+     Raspberry Pi Pico or equivalent
      USB V8 Cable
      Breadboard (400 tie points recommended)
-     ST-Link V2 or similar flashing hardware
      Dupont Jumpers
      2.4mm or 4.8mm Faston Terminal Connectors
      AWG 24 Wire or similar
@@ -65,9 +64,17 @@ All cases are to be made with a laser cut router.
 
 If you want to preview how your creations will look like, you can use the [Arcade Builder](https://github.com/Ultra-Arcade/arcade-builder), a software made in conjuction with the Open UA CNC project to provide better visualization to user creations.
 
+## Ordering a Custom Build
+
+Interested in buying a controller instead of building one yourself? We at Ultra Arcade got you covered!
+
+We are based in Brazil and we ship internationally. [Check out our website!](https://shop.ultraarcadebh.com.br/)
+
+![UASHOP](https://user-images.githubusercontent.com/11778557/211209698-63646c53-1d50-43fb-b3fa-9fa84eb03af8.png)
+
 
 ## Credits
 
 Case Designs and Arcade Art Preview Software by Gabriel "Piu" Amoedo
 
-[PassingLink](https://github.com/passinglink/passinglink) by Josh "jmgao" Gao
+[GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) by FeralAI and the Open Stick Community
