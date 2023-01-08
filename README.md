@@ -53,6 +53,7 @@ All cases are to be made with a laser cut router.
      M4 Nuts
      M4 Allen Screws
      M4 Flathead Screws
+     M4 Hex Rivets
 
 ## Where do I begin?
 
