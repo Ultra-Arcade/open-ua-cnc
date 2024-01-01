@@ -73,7 +73,7 @@ All cases are to be made with a laser cut router.
 
 [ExampleUsage.webm](https://user-images.githubusercontent.com/11778557/180760613-1b731b34-b6ba-47a1-9874-4af2d98b4cfe.webm)
 
-If you want to preview how your creations will look like, you can use the [Arcade Builder](https://github.com/Ultra-Arcade/arcade-builder-english), a software made in conjuction with the Open UA CNC project to provide better visualization to user creations.
+If you want to preview how your creations will look like, you can use the [Arcade Builder](https://github.com/Ultra-Arcade/arcade-builder), a software made in conjuction with the Open UA CNC project to provide better visualization to user creations.
 
 ## Ordering a Custom Build
 
@@ -83,7 +83,7 @@ We are based in Brazil/Spain and we ship internationally on our European store.
 
 [Brazil Storefront (Local Shipments Only)](https://shop.ultraarcadebh.com.br/)
 
-[Europe Storefront (Worldwide Shipping)](https://shop.ultraarcadebh.com.br/)
+[Europe Storefront (Worldwide Shipping)](https://ultraarcade.eu)
 
 ![UASHOP](https://user-images.githubusercontent.com/11778557/211209698-63646c53-1d50-43fb-b3fa-9fa84eb03af8.png)
 
