@@ -15,7 +15,7 @@
 ## Finished Product Example #5 (Flatbox)
 ![image](https://ultraarcade.eu/cdn/shop/files/1.png?v=1695995575&width=750)
 
-## Finished Product Example #4 (Flatbox XL)
+## Finished Product Example #6 (Flatbox XL)
 ![image](https://ultraarcade.eu/cdn/shop/files/flat_xl2_double.png?v=1696188975&width=750)
 
 ## Overview
